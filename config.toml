@@ -1,7 +1,6 @@
-baseURL = "https://chrisalbon.com/"
 languageCode = "en-us"
 title = "Chris Albon"
-theme = "berbera"
+theme = "ananke"
 
 pygmentsCodeFences=true
 pygmentsUseClasses=true

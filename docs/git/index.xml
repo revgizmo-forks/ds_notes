@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>git - Chris Albon</title>
-    <link>https://chrisalbon.com/git/index.xml</link>
-    <description></description>
+    <title>Gits on Chris Albon</title>
+    <link>/git/index.xml</link>
+    <description>Recent content in Gits on Chris Albon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Dec 2017 11:53:49 -0700</lastBuildDate>
     
-        <atom:link href="https://chrisalbon.com/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GitHub Cheatsheet</title>
-      <link>https://chrisalbon.com/git/github_cheatsheet/</link>
+      <link>/git/github_cheatsheet/</link>
       <pubDate>Wed, 20 Dec 2017 11:53:49 -0700</pubDate>
       
-      <guid>https://chrisalbon.com/git/github_cheatsheet/</guid>
+      <guid>/git/github_cheatsheet/</guid>
       <description>Find The Version Of Git git --version
 Create A New Git Repository  Go to the fold of the project.
  Run git init
