@@ -8,3 +8,11 @@ min_version = 0.25
 [author]
   name = "Chris Albon"
   homepage = "https://chrisalbon.com"
+
+[based on]
+  name = "Alan Orth"
+  homepage = "https://englishbulgaria.net"
+
+[original]
+  author = "mdo"
+  homepage = "https://v4-alpha.getbootstrap.com/examples/blog/"

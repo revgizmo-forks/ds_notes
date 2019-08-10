@@ -1,6 +1,6 @@
 languageCode = "en-us"
-title = "Chris Albon"
-theme = "ananke"
+title = "Title Goes Here"
+theme = "berbera"
 
 pygmentsCodeFences=true
 pygmentsUseClasses=true
